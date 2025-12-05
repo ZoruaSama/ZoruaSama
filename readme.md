@@ -17,7 +17,7 @@
 
 - **M.S. in Software Engineering**  
   Xi’an Jiaotong University
-  🔍 Research Focus: **Zero-Shot Learning** 🧠 
+  🔍 Research Focus: **Zero-Shot Learning** 🧠 / **hybrid enhanced intelligence**.
 
 - **B.E. in Computer Science and Technology**  
   Harbin Engineering University
@@ -33,11 +33,11 @@
 - 🌊 Building the future of mission-critical databases with strong consistency and elastic scaling.
 
 #### 🛍️ **Intern** @ **Alibaba International Digital Commerce Group**  
-*(Summer 2023)*  
+*(Summer 2024)*  
 - Developed streaming media server for global e-commerce platforms. 
 
 #### 📱 **Intern** @ **Huawei – HarmonyOS**  
-*(Summer 2022)*  
+*(Summer 2023)*  
 - Contributed to core modules of **HarmonyOS**, Huawei’s distributed operating system.  
 - Worked on inter-device communication and service orchestration.  
 - Gained deep insights into OS-level distributed architecture.
