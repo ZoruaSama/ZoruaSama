@@ -30,7 +30,7 @@
 *(2025 – Present)*  
 - Contributing to **OceanBase**, a high-performance distributed relational database powering financial-grade systems at scale.  
 - Optimizing the execution engine for expressions, aggregate functions, and window functions across both standalone and distributed execution paths.
-- Improving MySQL and Oracle SQL execution compatibility, and implementing support for complex data types such as ARRAY and JSON.
+- Improving MySQL and Oracle SQL execution compatibility, and implementing support for complex data types such as ARRAY and ROARINGBITMAP.
 - 🌊 Building the future of mission-critical databases with strong consistency and elastic scaling.
 
 #### 🛍️ **Intern** @ **Alibaba International Digital Commerce Group**  
