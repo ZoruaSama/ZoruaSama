@@ -26,18 +26,18 @@
 
 ### 💼 Professional Experience
 
-#### 🐜 **Software Engineer** @ **Ant Group – OceanBase**  
+#### <img src="https://cdn.simpleicons.org/alipay" width="24"> **Software Engineer** @ **Ant Group – OceanBase**  
 *(2025 – Present)*  
 - Contributing to **OceanBase**, a high-performance distributed relational database powering financial-grade systems at scale.  
 - Optimizing the execution engine for expressions, aggregate functions, and window functions across both standalone and distributed execution paths.
 - Improving MySQL and Oracle SQL execution compatibility, and implementing support for complex data types such as ARRAY and ROARINGBITMAP.
 - 🌊 Building the future of mission-critical databases with strong consistency and elastic scaling.
 
-#### 🛍️ **Intern** @ **Alibaba International Digital Commerce Group**  
+#### <img src="https://cdn.simpleicons.org/alibaba.com" width="24"> **Intern** @ **Alibaba International Digital Commerce Group**  
 *(Summer 2024)*  
 - Developed streaming media server for global e-commerce platforms. 
 
-#### 📱 **Intern** @ **Huawei – HarmonyOS**  
+#### <img src="https://cdn.simpleicons.org/huawei" width="24"> **Intern** @ **Huawei – HarmonyOS**  
 *(Summer 2023)*  
 - Contributed to core modules of **HarmonyOS**, Huawei’s distributed operating system.  
 - Worked on inter-device communication and service orchestration.  
