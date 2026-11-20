@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:zoruasama@qq.com"><img src="https://img.shields.io/badge/Email-zoruasama@qq.com-FF6F61?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Zorua"><img src="https://img.shields.io/github/followers/Zorua?label=Follow&style=flat&color=5D6D7E" alt="GitHub Follow"/></a>
+  <a href="https://github.com/Zorua"><img src="https://img.shields.io/github/followers/ZoruaSama?label=Follow&style=flat&color=5D6D7E" alt="GitHub Follow"/></a>
 </p>
 
 ---
